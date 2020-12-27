@@ -1,8 +1,8 @@
 pragma solidity 0.5.2; 
-import "./Ownable.sol";
-import "./TokenERC20.sol";
-import "./ERC677Token.sol";
-import "./SignerRole.sol";
+import "./access/Ownable.sol";
+import "./token/ERC20.sol";
+import "./token/ERC677Token.sol";
+import "./role/SignerRole.sol";
 
 
 //****************************************************************************//

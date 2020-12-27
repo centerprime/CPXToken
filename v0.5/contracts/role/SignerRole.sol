@@ -1,6 +1,6 @@
 pragma solidity 0.5.2; 
-import "./Ownable.sol";
-import "./Roles.sol";
+import "./access/Ownable.sol";
+import "./role/Roles.sol";
 
 contract SignerRole is Ownable {
     using Roles for Roles.Role;

@@ -2,12 +2,12 @@
 
 pragma solidity >=0.6.0 <0.8.0;
 
-import "./Context.sol";
-import "./IERC20.sol";
-import "./SafeMath.sol";
-import "./Ownable.sol";
+import "./GSN/Context.sol";
+import "./token/ERC20Interface.sol";
+import "./math/SafeMath.sol";
+import "./access/Ownable.sol";
 /**
- * @dev Implementation of the {IERC20} interface.
+ * @dev Implementation of the {ERC20Interface} interface.
  *
  * This implementation is agnostic to the way tokens are created. This means
  * that a supply mechanism has to be added in a derived contract using {_mint}.
@@ -28,9 +28,9 @@ import "./Ownable.sol";
  *
  * Finally, the non-standard {decreaseAllowance} and {increaseAllowance}
  * functions have been added to mitigate the well-known issues around setting
- * allowances. See {IERC20-approve}.
+ * allowances. See {ERC20Interface-approve}.
  */
-contract ERC20 is Context, IERC20, Ownable {
+contract ERC20 is Context, ERC20Interface, Ownable {
     using SafeMath for uint256;
 
     mapping (address => uint256) public _balances;

@@ -1,12 +1,12 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0 <0.8.0;
 
-import "./Ownable.sol";
-import "./Context.sol";
-import "./ERC20.sol";
-import "./SafeMath.sol";
-import "./ERC677.sol";
-import "./ERC677Receiver.sol";
+import "./access/Ownable.sol";
+import "./GSN/Context.sol";
+import "./token/ERC20.sol";
+import "./math/SafeMath.sol";
+import "./token/ERC677.sol";
+import "./token/ERC677Receiver.sol";
 
 
 /**
@@ -15,7 +15,7 @@ import "./ERC677Receiver.sol";
  * Note they can later distribute these tokens as they wish using `transfer` and other
  * `ERC20` functions.
  */
-contract CPXTOKEN is Context, Ownable, ERC677 {
+contract CPXToken is Context, Ownable, ERC677 {
     
     using SafeMath for uint256;
 

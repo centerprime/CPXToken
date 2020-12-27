@@ -1,6 +1,6 @@
 pragma solidity 0.5.2; 
-import "./ERC677.sol";
-import "./ERC677Receiver.sol";
+import "./token/ERC677.sol";
+import "./token/ERC677Receiver.sol";
 
 contract ERC677Token is ERC677 {
 

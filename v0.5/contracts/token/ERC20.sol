@@ -1,5 +1,5 @@
 pragma solidity 0.5.2; 
-import "./SafeMath.sol";
+import "./math/SafeMath.sol";
 contract TokenERC20 {
     // Public variables of the token
     using SafeMath for uint256;
