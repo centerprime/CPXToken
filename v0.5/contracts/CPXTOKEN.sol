@@ -9,7 +9,7 @@ import "./role/SignerRole.sol";
 //---------------------  CPX TOKEN MAIN CODE STARTS HERE ---------------------//
 //****************************************************************************//
     
-contract CPXTOKEN is Ownable, TokenERC20, ERC677Token, SignerRole {
+contract CPXToken is Ownable, TokenERC20, ERC677Token, SignerRole {
     
     
     /***************************************/
