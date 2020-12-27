@@ -2,7 +2,7 @@
 
 pragma solidity >=0.6.0 <0.8.0;
 
-import "./GSN/Context.sol";
+import "./gsn/Context.sol";
 import "./token/ERC20Interface.sol";
 import "./math/SafeMath.sol";
 import "./access/Ownable.sol";
