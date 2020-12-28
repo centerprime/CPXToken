@@ -17,23 +17,23 @@ A pool that can store various neuron assets (synthetic assets) is required to co
 ### ○ Oracle Perceptron Wallet Creation
 The Oracle Perceptron Wallet is a wallet that can hold custodial assets, non-custodial assets, and neuron assets. It contains essential functions for building the De-Fi ecosystem, conducting transactions between digital assets and various assets that many countries are planning to implement, and for company, company, and individual, and individual and individual to trade through P2P. The Oracle Perceptron Wallet will accommodate the scalability and diversity of open banking protocols and De-Fi protocols within a reliable smart contract solution structure and will be a medium for connecting the real economy and the De-Fi economy. CPX tokens will be used for storage, exchange, payment and transaction in the Oracle Perceptron wallets and will only be used for various utility gas payments. The Oracle Perceptron Wallet allows users to use most of the services used in the real economy through a variety of assets.
 
- ※ Company Oracle Perceptron Wallet
+- Company Oracle Perceptron Wallet
   - Wallet payable for the reserve fund of custodial assets, non-custodial assets, and neuron assets
- ※ Individual Oracle Perceptron Wallet
+- Individual Oracle Perceptron Wallet
   - Wallet tradable for the reserve fund of custodial assets, non-custodial assets, and neuron assets
 
 ### ○ Oracle Perceptron Network Companies Registration
 On the Center Prime platform that supports transactions between various assets, there are chains of various countries, financial institutions, and companies that provide content. Chains of each country, financial institution, and company provide high-quality financial and content data to the CenterPrime ecosystem and attract users who use various assets as customers. CPX token is a utility token that will be used as a gas fee when the data company first registers to provide data to the ecosystem. It also provides a platform for and realizes the conversion of various data generated in the private chain, public chain, and node chain into real valuable data and realizes it.
 
- ※ Content Provider Companies Registration 
+- Content Provider Companies Registration 
   - Register content providers consumed by users
- ※ App Service Companies Registration
+- App Service Companies Registration
   - Register app services that provide actual user data
- ※ Node Chain Companies Registration
+- Node Chain Companies Registration
   - Register node chain connects each chain network
- ※ Private Chain Companies Registration
+- Private Chain Companies Registration
   - Register for blockchain private chain
- ※ Public Chain Companies Registration
+- Public Chain Companies Registration
   - Register user-acquired public chain
- ※ Banking Service Companies Registration
+- Banking Service Companies Registration
   - Register central bank open banking provider
