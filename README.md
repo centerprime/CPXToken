@@ -24,15 +24,15 @@ The Oracle Perceptron Wallet is a wallet that can hold custodial assets, non-cus
 
 ### ○ Oracle Perceptron Network Companies Registration
 On the Center Prime platform that supports transactions between various assets, there are chains of various countries, financial institutions, and companies that provide content. Chains of each country, financial institution, and company provide high-quality financial and content data to the CenterPrime ecosystem and attract users who use various assets as customers. CPX token is a utility token that will be used as a gas fee when the data company first registers to provide data to the ecosystem. It also provides a platform for and realizes the conversion of various data generated in the private chain, public chain, and node chain into real valuable data and realizes it.
-## ※ Content Provider Companies Registration 
+ ※ Content Provider Companies Registration 
   - Register content providers consumed by users
-## ※ App Service Companies Registration
+ ※ App Service Companies Registration
   - Register app services that provide actual user data
-## ※ Node Chain Companies Registration
+ ※ Node Chain Companies Registration
   - Register node chain connects each chain network
-## ※ Private Chain Companies Registration
+ ※ Private Chain Companies Registration
   - Register for blockchain private chain
-## ※ Public Chain Companies Registration
+ ※ Public Chain Companies Registration
   - Register user-acquired public chain
-## ※ Banking Service Companies Registration
+ ※ Banking Service Companies Registration
   - Register central bank open banking provider
