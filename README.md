@@ -9,8 +9,10 @@ A pool that can store various neuron assets (synthetic assets) is required to co
 
 - Single Asset Liquidity Pool
   - Create a 1:1 ratio pool of non-custodial assets
+  
 - Multiple Asset Liquidity Pool
   - Create an n:1 ratio pool of non-custodial assets
+  
 - Central Bank Neuron Asset Liquidity Pool
   - Create an n:1 ratio pool of custodial assets and non-custodial assets
 
@@ -19,6 +21,7 @@ The Oracle Perceptron Wallet is a wallet that can hold custodial assets, non-cus
 
 - Company Oracle Perceptron Wallet
   - Wallet payable for the reserve fund of custodial assets, non-custodial assets, and neuron assets
+  
 - Individual Oracle Perceptron Wallet
   - Wallet tradable for the reserve fund of custodial assets, non-custodial assets, and neuron assets
 
@@ -27,13 +30,18 @@ On the Center Prime platform that supports transactions between various assets, 
 
 - Content Provider Companies Registration 
   - Register content providers consumed by users
+  
 - App Service Companies Registration
   - Register app services that provide actual user data
+  
 - Node Chain Companies Registration
   - Register node chain connects each chain network
+  
 - Private Chain Companies Registration
   - Register for blockchain private chain
+  
 - Public Chain Companies Registration
   - Register user-acquired public chain
+  
 - Banking Service Companies Registration
   - Register central bank open banking provider
