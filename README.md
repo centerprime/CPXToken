@@ -1,4 +1,4 @@
-## Where to Use the CPX Token
+## CPX Token Use
 
 The CenterPrime platform's native digital encryption security utility token is designed to serve as an important role in the De-Fi Multi-Layer Perceptron ecosystem. 
 The De-Fi Multi-LayerPerceptron Protocol expressed an asset that combines a bundle of custodial and non-custodial assets and a combination of each functional layer as a neuron asset (synthetic asset).
