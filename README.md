@@ -3,9 +3,9 @@
 The CenterPrime platform's native digital encryption security utility token is designed to serve as an important role in the De-Fi Multi-Layer Perceptron ecosystem. 
 The De-Fi Multi-LayerPerceptron Protocol expressed an asset that combines a bundle of custodial and non-custodial assets and a combination of each functional layer as a neuron asset (synthetic asset).
 
-<div>
+<center>
   <img src="https://centerprime.technology/images/github/neuron_asset.png" width="70%">
-</div>
+</center>
 
 CPX tokens are used only as the platform's default utility token and are only provided as a convenient and secure payment method for participants interacting with the De-Fi Multi-Layer Perceptron neuron asset. CPX tokens do not in any way represent any payment or debt redemption for goods or services of other chains other than the De-Fi Multi-Layer Perceptron, the operation of the CenterPrime Foundation, and the equity, participation, rights, ownership, or interest in affiliates, enterprises, other enterprises or businesses. CPX Token does not give token holders any promises of fees, dividends, profits, profits, or return on investment, and has no intention to form securities in Singapore or relevant jurisdiction. CPX tokens are only available on the CenterPrime platform, and ownership of CPX tokens has no rights, express or implied, other than the right to use CPX tokens as means to enable use and interaction within the CenterPrime platform.
 
