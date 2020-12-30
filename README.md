@@ -16,7 +16,7 @@ In addition, CPX tokens serve as an economic incentive consumed to encourage use
 A pool that can store various neuron assets (synthetic assets) is required to connect the custodial assets and non-custodial assets. In particular, the financial sector is conducting continuous research on digital assets, and some financial institutions are on the verge of actual introduction, and what is required in this global trend is a pool that can entrust various assets. CPX tokens will be used by various financial institutions or enterprises to create pools to store neuron assets.
 
 <div>
-  <center><img src="https://centerprime.technology/images/github/oracle_perceptron%20neuron_asset_liquidity_pool.png" width="90%"></center>
+  <center><img src="https://centerprime.technology/images/github/oracle_perceptron%20neuron_asset_liquidity_pool.png" width="100%"></center>
 </div>
 
 - Single Asset Liquidity Pool
@@ -33,7 +33,7 @@ A pool that can store various neuron assets (synthetic assets) is required to co
 The Oracle Perceptron Wallet is a wallet that can hold custodial assets, non-custodial assets, and neuron assets. It contains essential functions for building the De-Fi ecosystem, conducting transactions between digital assets and various assets that many countries are planning to implement, and for enterprises, enterprises, and individual, and individual and individual to trade through P2P. The Oracle Perceptron Wallet will accommodate the scalability and diversity of open banking protocols and De-Fi protocols within a reliable smart contract solution structure and will be a medium for connecting the real economy and the De-Fi economy. CPX tokens will be used for storage, exchange, payment and transaction in the Oracle Perceptron wallets and will only be used for various utility gas payments. The Oracle Perceptron Wallet allows users to use most of the services used in the real economy through a variety of assets.
 
 <div>
-  <center><img src="https://centerprime.technology/images/github/oracle_perceptron_wallet.png" width="90%"></center>
+  <center><img src="https://centerprime.technology/images/github/oracle_perceptron_wallet.png" width="100%"></center>
 </div>
 
 - Enterprises Oracle Perceptron Wallet
@@ -47,7 +47,7 @@ The Oracle Perceptron Wallet is a wallet that can hold custodial assets, non-cus
 On the Center Prime platform that supports transactions between various assets, there are chains of various countries, financial institutions, and enterprises that provide content. Chains of each country, financial institution, and enterprise provide high-quality financial and content data to the CenterPrime ecosystem and attract users who use various assets as customers. CPX token is a utility token that will be used as a gas fee when the data enterprise first registers to provide data to the ecosystem. It also provides a platform for and realizes the conversion of various data generated in the private chain, public chain, and node chain into real valuable data and realizes it.
 
 <div>
-  <center><img src="https://centerprime.technology/images/github/oracle_perceptron%20neural_network%20enterprise_registration.png" width="90%"></center>
+  <center><img src="https://centerprime.technology/images/github/oracle_perceptron%20neural_network%20enterprise_registration.png" width="100%"></center>
 </div>
 
 - Content Provider Enterprise Registration 
