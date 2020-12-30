@@ -15,6 +15,10 @@ In addition, CPX tokens serve as an economic incentive consumed to encourage use
 
 A pool that can store various neuron assets (synthetic assets) is required to connect the custodial assets and non-custodial assets. In particular, the financial sector is conducting continuous research on digital assets, and some financial institutions are on the verge of actual introduction, and what is required in this global trend is a pool that can entrust various assets. CPX tokens will be used by various financial institutions or enterprises to create pools to store neuron assets.
 
+<div>
+  <center><img src="https://centerprime.technology/images/github/oracle_perceptron%20neuron_asset_liquidity_pool.png" width="70%"></center>
+</div>
+
 - Single Asset Liquidity Pool
   - Create a 1:1 ratio pool of non-custodial assets
   
